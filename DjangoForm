@@ -1,0 +1,15 @@
+"""
+projectname
+  -app1
+    -form.py ( it had 'oneform')
+  -app2
+    -view.py ( here i want to import 'oneform')
+    
+  
+  
+  
+  view.py
+  
+  from projectname.app1.forms import oneform
+  //this is not working in Django2
+      
