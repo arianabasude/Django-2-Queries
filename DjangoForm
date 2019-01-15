@@ -1,7 +1,7 @@
 """
 projectname
   -app1
-    -form.py ( it had 'oneform')
+    -form.py ( it has 'oneform')
   -app2
     -view.py ( here i want to import 'oneform')
     
